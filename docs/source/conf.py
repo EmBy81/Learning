@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Learnig'
+project = 'Learning'
 copyright = '2022, Marco Berardi'
 author = 'Marco'
 

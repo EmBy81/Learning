@@ -1,22 +1,21 @@
 Welcome to Learnig's documentation!
 ===================================
 
-**Learnig** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Learning** e' una raccolta.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dai un occhio a :doc:`python` per gli appunti su python, oppure a :doc:`javascript` per gli appunti su javascript,
+ed infine a :doc:`solidity` per gli appunti su solidity.
 
 .. note::
 
-   This project is under active development.
+   Questa e' una raccolta di appunti.
 
-Contents
+Contenuti
 --------
 
 .. toctree::
 
-   usage
-   api
+   python
+   javascript
+   solidity
+
